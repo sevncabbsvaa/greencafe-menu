@@ -4,7 +4,7 @@ export default function Footer() {
   const { t } = useTranslation();
 
   return (
-    <footer className="mt-28 border-t border-stone-200 bg-[#f6f6f2] text-stone-800">
+    <footer className="pt-28 border-t border-stone-200 bg-[#f6f6f2] text-stone-800">
       <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 gap-14 md:grid-cols-4 md:items-start">
           <div className="text-center md:text-left">

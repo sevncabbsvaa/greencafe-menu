@@ -9,7 +9,7 @@ export const menuData: MenuCategory[] = [
       { id: 2, nameKey: "menu.soups.creamyMushroom.name", image: "images/mushroom-soup.jpg", descriptionKey: "menu.soups.creamyMushroom.description", price: 6, weight: "250 qr" },
       { id: 3, nameKey: "menu.soups.dushbere.name", image: "images/Dumpling-Soup.jpg", descriptionKey: "menu.soups.dushbere.description", price: 6, weight: "250 qr" },
       { id: 4, nameKey: "menu.soups.tomato.name", image: "images/tomato-soup.jpg", descriptionKey: "menu.soups.tomato.description", price: 5, weight: "250 qr" },
-      { id: 5, nameKey: "menu.soups.chicken.name", image: "images/chicken-soup.jpg", descriptionKey: "menu.soups.chicken.description", price: 5, weight: "250 qr" }
+      { id: 5, nameKey: "menu.soups.chicken.name", image: "images/chickensoup.jpg", descriptionKey: "menu.soups.chicken.description", price: 5, weight: "250 qr" }
     ]
   },
   {
@@ -78,8 +78,8 @@ export const menuData: MenuCategory[] = [
     items: [
       { id: 36, nameKey: "menu.saj.beefSaj.name", image: "images/beef-saj.jpg", descriptionKey: "menu.saj.beefSaj.description", price: 32, weight: "600 qr" },
       { id: 37, nameKey: "menu.saj.chickenSaj.name", image: "images/chicken-saj.jpg", descriptionKey: "menu.saj.chickenSaj.description", price: 27, weight: "750 qr" },
-      { id: 38, nameKey: "menu.saj.lambSaj.name", image: "images/lamb-saj.jpg", descriptionKey: "menu.saj.lambSaj.description", price: 30, weight: "600 qr" },
-      { id: 39, nameKey: "menu.saj.mixedSaj.name", image: "images/mixed-grill.jpg", descriptionKey: "menu.saj.mixedSaj.description", price: 36, weight: "600 qr" }
+      { id: 38, nameKey: "menu.saj.lambSaj.name", image: "images/lambsaj.jpg", descriptionKey: "menu.saj.lambSaj.description", price: 30, weight: "600 qr" },
+      { id: 39, nameKey: "menu.saj.mixedSaj.name", image: "images/mixedsaj.jpg", descriptionKey: "menu.saj.mixedSaj.description", price: 36, weight: "600 qr" }
     ]
   },
   {
@@ -161,7 +161,7 @@ export const menuData: MenuCategory[] = [
     titleKey: "categories.beerSnacks",
     items: [
       { id: 78, nameKey: "menu.beerSnacks.sausagePlate.name", image: "images/sausage-platter.jpg", descriptionKey: "menu.beerSnacks.sausagePlate.description", price: 9, weight: "200 qr" },
-      { id: 79, nameKey: "menu.beerSnacks.stringCheese.name", image: "images/string-cheese.jpg", descriptionKey: "menu.beerSnacks.stringCheese.description", price: 5, weight: "150 qr" },
+      { id: 79, nameKey: "menu.beerSnacks.stringCheese.name", image: "images/stringcheese.jpg", descriptionKey: "menu.beerSnacks.stringCheese.description", price: 5, weight: "150 qr" },
       { id: 80, nameKey: "menu.beerSnacks.smokedQuail.name", image: "images/smoked-quail.jpg", descriptionKey: "menu.beerSnacks.smokedQuail.description", price: 5, weight: "120 qr" },
       { id: 81, nameKey: "menu.beerSnacks.friedCheese.name", image: "images/fried-cheese.jpg", descriptionKey: "menu.beerSnacks.friedCheese.description", price: 6, weight: "150 qr" },
       { id: 82, nameKey: "menu.beerSnacks.smokedMeat.name", image: "images/smoked-meat.jpg", descriptionKey: "menu.beerSnacks.smokedMeat.description", price: 4, weight: "100 qr" },
