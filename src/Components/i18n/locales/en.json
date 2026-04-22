@@ -57,7 +57,7 @@
       "tuna": { "name": "Tuna Salad", "description": "Light salad with tuna." },
       "shepherd": { "name": "Shepherd Salad", "description": "Prepared with freshly chopped vegetables." },
       "grill": { "name": "Grill Salad", "description": "Prepared with grilled vegetables." },
-      "quinoaAthlete": { "name": "Quinoa Athlete Salad", "description": "Nutritious salad with quinoa." }
+      "quinoaAthlete": { "name": "Grilled salad", "description": "Nutritious salad with quinoa." }
     },
     "appetizers": {
       "cheesePlatter": { "name": "Cheese Platter", "description": "Assorted selection of cheeses." },

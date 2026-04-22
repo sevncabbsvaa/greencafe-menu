@@ -57,7 +57,7 @@
       "tuna": { "name": "Ton balığı salatı", "description": "Ton balığı ilə yüngül salat." },
       "shepherd": { "name": "Çoban salatı", "description": "Doğranmış təzə tərəvəzlərlə hazırlanır." },
       "grill": { "name": "Manqal salatı", "description": "Manqalda bişmiş tərəvəzlərlə hazırlanır." },
-      "quinoaAthlete": { "name": "Kino sporçu salatı", "description": "Kinoalı və qidalı salat." }
+      "quinoaAthlete": { "name": "İzqara salatı", "description": "Kinoalı və qidalı salat." }
     },
     "appetizers": {
       "cheesePlatter": { "name": "Pendir assorti", "description": "Müxtəlif pendir növlərinin assortisi." },

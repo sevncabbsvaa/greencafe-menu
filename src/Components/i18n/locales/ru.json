@@ -57,7 +57,7 @@
       "tuna": { "name": "Салат с тунцом", "description": "Лёгкий салат с тунцом." },
       "shepherd": { "name": "Пастуший салат", "description": "Салат из свеженарезанных овощей." },
       "grill": { "name": "Салат-гриль", "description": "Салат с овощами на гриле." },
-      "quinoaAthlete": { "name": "Салат с киноа", "description": "Питательный салат с киноа." }
+      "quinoaAthlete": { "name": "Салат на гриле", "description": "Питательный салат с киноа." }
     },
     "appetizers": {
       "cheesePlatter": { "name": "Сырное ассорти", "description": "Ассорти из различных видов сыра." },

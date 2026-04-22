@@ -41,11 +41,11 @@ export const menuData: MenuCategory[] = [
     key: "appetizers",
     titleKey: "categories.appetizers",
     items: [
-      { id: 19, nameKey: "menu.appetizers.cheesePlatter.name", image: "images/cheese-platter.jpg", descriptionKey: "menu.appetizers.cheesePlatter.description", price: 12, weight: "250 qr" },
+      { id: 19, nameKey: "menu.appetizers.cheesePlatter.name", image: "images/cheese-platter.jpg", descriptionKey: "menu.appetizers.cheesePlatter.description", price: 12, weight: "150 qr" },
       { id: 20, nameKey: "menu.appetizers.pickles.name", image: "images/pickles-plate.jpg", descriptionKey: "menu.appetizers.pickles.description", price: 8, weight: "600 qr" },
       { id: 21, nameKey: "menu.appetizers.olives.name", image: "images/olives-bowl.jpg", descriptionKey: "menu.appetizers.olives.description", price: 6, weight: "" },
       { id: 22, nameKey: "menu.appetizers.vegetableBouquet.name", image: "images/vegetable-platter.jpg", descriptionKey: "menu.appetizers.vegetableBouquet.description", price: 7, weight: "280 qr" },
-      { id: 23, nameKey: "menu.appetizers.herbCheese.name", image: "images/herb-cheese.jpg", descriptionKey: "menu.appetizers.herbCheese.description", price: 6, weight: "" },
+      { id: 23, nameKey: "menu.appetizers.herbCheese.name", image: "images/herb-cheese.jpg", descriptionKey: "menu.appetizers.herbCheese.description", price: 6, weight: "190 qr" },
       { id: 24, nameKey: "menu.appetizers.onionRings.name", image: "images/onion-rings.jpg", descriptionKey: "menu.appetizers.onionRings.description", price: 6, weight: "8 ədəd" },
       { id: 25, nameKey: "menu.appetizers.mozzarellaSticks.name", image: "images/mozzarella-sticks.jpg", descriptionKey: "menu.appetizers.mozzarellaSticks.description", price: 8, weight: "4 ədəd" },
       { id: 26, nameKey: "menu.appetizers.tempuraShrimp.name", image: "images/tempura-shrimp.jpg", descriptionKey: "menu.appetizers.tempuraShrimp.description", price: 12, weight: "100 qr" },
