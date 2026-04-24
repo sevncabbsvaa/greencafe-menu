@@ -9,7 +9,7 @@
     "hoursValue": "09:00 — 23:00",
     "phoneLabel": "Telefon",
     "addressLabel": "Ünvan",
-    "addressLine1": "Sebail ray., Şıxov qəs.",
+    "addressLine1": "Səbail ray., Şıxov qəs.",
     "addressLine2": "Green City Resort & Residence",
     "serviceNote": "*10% servis haqqı qiymətlərə daxil deyil"
   },
@@ -57,7 +57,7 @@
       "tuna": { "name": "Ton balığı salatı", "description": "Ton balığı ilə yüngül salat." },
       "shepherd": { "name": "Çoban salatı", "description": "Doğranmış təzə tərəvəzlərlə hazırlanır." },
       "grill": { "name": "Manqal salatı", "description": "Manqalda bişmiş tərəvəzlərlə hazırlanır." },
-      "quinoaAthlete": { "name": "İzqara salatı", "description": "Kinoalı və qidalı salat." }
+      "quinoaAthlete": { "name": "Izqara salatı", "description": "Kinoalı və qidalı salat." }
     },
     "appetizers": {
       "cheesePlatter": { "name": "Pendir assorti", "description": "Müxtəlif pendir növlərinin assortisi." },
@@ -89,9 +89,9 @@
       "mixedSaj": { "name": "Qarışıq sac", "description": "Müxtəlif ət və tərəvəzlərin qarışıq sacı." }
     },
     "fish": {
-      "troutGrill": { "name": "Forel izqara", "description": "İzqarada hazırlanmış forel." },
-      "salmonGrill": { "name": "Qızıl balıq izqara", "description": "İzqarada bişmiş qızıl balıq." },
-      "seaBreamGrill": { "name": "Çupra izqara", "description": "İzqarada hazırlanmış çupra." }
+      "troutGrill": { "name": "Forel ızqara", "description": "Izqarada hazırlanmış forel." },
+      "salmonGrill": { "name": "Qızıl balıq ızqara", "description": "Izqarada bişmiş qızıl balıq." },
+      "seaBreamGrill": { "name": "Çupra ızqara", "description": "Izqarada hazırlanmış çupra." }
     },
     "pasta": {
       "arrabbiata": { "name": "Penne Arrabbiata", "description": "Acılı tomat souslu penne." },
